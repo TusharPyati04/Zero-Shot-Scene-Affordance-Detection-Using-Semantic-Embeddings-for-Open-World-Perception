@@ -54,26 +54,3 @@ The proposed framework achieves a mean IoU of **0.619** for drivable affordance 
 
 ---
 
-## Requirements
-
-- Python 3.x  
-- PyTorch  
-- CLIPSeg  
-- NumPy  
-- OpenCV  
-- Matplotlib  
-
-(Exact versions can be specified in a `requirements.txt` file.)
-
----
-
-## Repository Structure
-
-├── data/ 
-├── models/ 
-├── fda/ 
-├── inference/ 
-├── results/ 
-├── utils/ 
-└── README.md
-
